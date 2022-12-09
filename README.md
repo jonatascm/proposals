@@ -95,72 +95,111 @@ None yet, just bug bounty.
 ### Code4rena
 
 |Date| 8th, May 2022 |	
+| --- | --- |
 |Protocol|	Cudos, Bridge Contracts |
+| --- | --- |
 |Link |	https://discord.com/channels/810916927919620096/810929015509483554/989164839253446726 |
+| --- | --- |
 |Reflection |	This one is my first bug bunty contests, tried before any audit in Spearbit |
 
 
 |Date| 13th, May 2022 |	
+| --- | --- |
 |Protocol|	Cally, NFT Options |
+| --- | --- |
 |Link |	https://discord.com/channels/810916927919620096/810929015509483554/989289999914635344 |
+| --- | --- |
 |Reflection |	This also before Spearbit auditing, didn't know much about how to make an audit |
 
 
 |Date| 31th, May 2022 |	
+| --- | --- |
 |Protocol| veToken, Forked version of the Convex Yield Protocol |
+| --- | --- |
 |Link |	https://discord.com/channels/810916927919620096/979086601323945984/1006238694413447271 |
+| --- | --- |
 |Reflection |	For this one I started to create a list on how to start look into a project, also find my first medium issue |
 
 |Date| 8th, Jul 2022 |	
+| --- | --- |
 |Protocol|	Juicebox V2, Programmable Treasury |
+| --- | --- |
 |Link |	https://discord.com/channels/810916927919620096/992150836643893399/1010282250945962135 |
+| --- | --- |
 |Reflection |	After my first audit in Spearbit, high and medium findings, still difficult to understand the whole project |
 
 |Date| 14th, Jul 2022 |	
+| --- | --- |
 |Protocol| Fractional V2, Shared ownership and governance of NFTs, Fractionalized NFTs |
+| --- | --- |
 |Link |	https://discord.com/channels/810916927919620096/994261516251562024/1017092105325256714 |
+| --- | --- |
 |Reflection |	Got more bugs related to logic, not just pattern issues like changing transfer to safeTransfer |
 
 |Date| 15th, Jul 2022 |	
+| --- | --- |
 |Protocol| Swivel, Yield tokenization protocol, Lending  |
+| --- | --- |
 |Link |	https://discord.com/channels/810916927919620096/996465101697712188/1017217781202174013 |
+| --- | --- |
 |Reflection |	Find just one high issue, some low & gas |
 
 |Date| 15th, Aug 2022 |	
+| --- | --- |
 |Protocol|FIAT DAO veFDT, Implementation of Curve's voting-escrow  |
+| --- | --- |
 |Link |	https://discord.com/channels/810916927919620096/1006962576049057963/1022139067820945450 |
-|Reflection |	Got 5th place. One high, one medium issue, low & gas.  |
+| --- | --- |
+|Reflection |	Got 5th place, yay!. One high, one medium issue, low & gas.  |
 
 |Date| 15th, Aug 2022 |	
+| --- | --- |
 |Protocol| Foundation Drop, NFT MarketPlace	|
+| --- | --- |
 |Link |	https://discord.com/channels/810916927919620096/1006281012931739698/1022931587253424219 |
+| --- | --- |
 |Reflection |	Just found low issues |
 
 |Date| 15th, Sep 2022 |	
+| --- | --- |
 |Protocol| Nouns Builder, Tool for deploying forks of Nouns DAO with custom NFT, auction, governance, and founder(s) settings	|
+| --- | --- |
 |Link |	https://discord.com/channels/810916927919620096/1014987087478526052/1030494715730219088 |
+| --- | --- |
 |Reflection |	1 medium, low & gas report |
 
 |Date| 19th, Sep 2022 |	
+| --- | --- |
 |Protocol| Y2k Finance,  HEDGE & RISK Insurances |
+| --- | --- |
 |Link |	https://discord.com/channels/810916927919620096/1019329436736299090/1045049955825504327 |
+| --- | --- |
 |Reflection |	Got an invalid "high" issue but send some low & gas, at this time I was making more contests and studying less so I decided to change to study more to get my confidence back  |
 
 ### Sherlock
 
 |Date| 19th, Sep 2022 |	
+| --- | --- |
 |Protocol| Sentiment, Undercollateralised	Lending & Borrowing|
+| --- | --- |
 |Link |	https://discord.com/channels/812037309376495636/1013896010793226300/1026557592291524659 |
+| --- | --- |
 |Reflection |	First audit of Sherlock, didn't have much time but found one medium issue |
 
 |Date| 20th, Nov 2022 |	
+| --- | --- |
 |Protocol|	Buffer Finance, Short-term options trading platform |
+| --- | --- |
 |Link |	https://discord.com/channels/812037309376495636/1041727871414173776/1049440916517171240 |
-|Reflection |	|
+| --- | --- |
+|Reflection |	Found 1 high, 2 mediums and 1 low |
 
 |Date| 30th, Nov 2022 |	
+| --- | --- |
 |Protocol| Opyn, Defi derivatives and options |
+| --- | --- |
 |Link |	https://discord.com/channels/812037309376495636/1044825791701209118/1050787547099435088 |
+| --- | --- |
 |Reflection | Found 2 medium issues but just one got considered |
 
 |Date| 7th, Dec 2022 |	
