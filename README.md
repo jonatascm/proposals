@@ -61,6 +61,7 @@ Since I joined in Spearbit, I participated in some projects:
 ## Public Content
 
 Post about ECDSA: https://twitter.com/jonataspvt/status/1593618077081640961
+ERC20 Types: https://twitter.com/jonataspvt/status/1604781368357126144
 
 I'm trying to expose more myself in twitter.
 
