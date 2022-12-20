@@ -176,12 +176,14 @@ None yet, just bug bounty.
 |Link |	https://discord.com/channels/812037309376495636/1044825791701209118/1050787547099435088 |
 |Reflection | Found 2 medium issues but just one got considered |
 
-|Date| 7th, Dec 2022 |	
+|Date| 7th, Dec 2022 |
+| --- | --- |
 |Protocol| Isomorph, Lending protocol	|
 |Link | Waiting for result |
-|Reflection |	Found just low issues and sent them |
+|Reflection |	Found 1 medium and 2 low issues |
 
 |Date| 4th, Dec 2022 |	
+| --- | --- |
 |Protocol| NounsDAO, Streamer component allowing payer to create steam and fund	|
 |Link |	https://discord.com/channels/812037309376495636/1047881174925721630/1050794800938487979 |
 |Reflection | This project I start to measure my time of bug bounty found just one medium	|
