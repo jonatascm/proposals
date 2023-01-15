@@ -50,7 +50,9 @@ I already have the knowledge and desire to take on greater responsibility and be
 
 Since I joined in Spearbit, I participated in some projects:
 
-1. Auditing in Code4rena and Sherlock
+1. Auditing:
+  - Code4rena: #219 ranking in 2022
+  - Sherlock: #119 ranking in 2022
 2. Participating in Secureum Bootcamp:
     1. Trail of Bits - Echidna Workshop -  19 ~ 25 May 2022
     2. Certora Prover Tools - Aave Grant Program - July ~ September 2022
