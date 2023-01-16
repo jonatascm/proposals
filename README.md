@@ -50,7 +50,7 @@ I already have the knowledge and desire to take on greater responsibility and be
 
 Since I joined in Spearbit, I participated in some projects:
 
-1. Auditing:
+1. Bug Bounty:
   - Code4rena: #219 ranking in 2022
   - Sherlock: #119 ranking in 2022
 2. Participating in Secureum Bootcamp:
